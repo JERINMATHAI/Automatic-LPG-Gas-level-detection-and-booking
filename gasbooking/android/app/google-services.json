@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1719126604",
+    "firebase_url": "https://sample-projecct-13f05-default-rtdb.firebaseio.com",
+    "project_id": "sample-projecct-13f05",
+    "storage_bucket": "sample-projecct-13f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1719126604:android:da45601f1548faad8d42e9",
+        "android_client_info": {
+          "package_name": "com.company.gasbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1719126604-8jk4cl0lghruk7t219ddc09oq67rg5oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BGf91_cJ5qXGJs85YzUZQDSlH7YvsCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1719126604-8jk4cl0lghruk7t219ddc09oq67rg5oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
